@@ -1,0 +1,819 @@
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-23 18:30:31,311 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-23 18:30:31,326 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-23 18:30:31,326 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-24 14:48:54,862 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-24 14:48:54,865 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-24 14:48:54,865 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-24 14:48:54,865 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-24 14:48:54,867 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-24 14:48:54,867 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-24 14:48:54,867 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-24 14:48:54,867 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-24 14:48:54,868 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-24 14:48:54,868 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-24 14:51:52,981 : WARN  : main :  : Node : Excel Reader : 3:1 : Please specify a file
+2023-01-24 15:05:59,179 : WARN  : main :  : Node : Partitioning : 3:4 : No sampling method selected
+2023-01-24 15:06:11,775 : WARN  : main :  : Node : Partitioning : 3:4 : No sampling method selected
+2023-01-24 15:13:59,273 : WARN  : main :  : Node : Decision Tree Learner : 3:5 : Guessing target column: "CİNSİYET".
+2023-01-24 15:21:47,180 : WARN  : main :  : Node : Scorer : 3:7 : No columns selected yet.
+2023-01-24 15:22:11,319 : WARN  : main :  : Node : Scorer : 3:7 : No columns selected yet.
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-24 15:34:15,804 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-24 15:37:03,154 : WARN  : main :  : Node : Excel Reader : 3:1 : Please specify a file
+2023-01-24 15:37:57,690 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-24 15:38:18,114 : WARN  : main :  : Node : Partitioning : 3:2 : No sampling method selected
+2023-01-24 15:38:27,342 : WARN  : KNIME-Worker-5-Partitioning 3:2 :  : Node : Partitioning : 3:2 : Class column contains more classes (1) than sampled rows (0)
+2023-01-24 15:39:23,164 : WARN  : KNIME-Worker-5-Partitioning 3:2 :  : Node : Partitioning : 3:2 : Class column contains more classes (2) than sampled rows (1)
+2023-01-24 15:40:15,562 : WARN  : main :  : Node : Partitioning : 3:2 : No sampling method selected
+2023-01-24 15:40:23,441 : WARN  : KNIME-Worker-4-Partitioning 3:2 :  : Node : Partitioning : 3:2 : Class column contains more classes (2) than sampled rows (1)
+2023-01-24 15:41:05,317 : WARN  : main :  : Node : Decision Tree Learner : 3:3 : Guessing target column: "Cinsiyet".
+2023-01-24 15:41:29,222 : WARN  : main :  : Node : Scorer : 3:5 : No columns selected yet.
+2023-01-24 15:41:32,793 : ERROR : KNIME-Worker-7-Decision Tree Learner 3:3 :  : Node : Decision Tree Learner : 3:3 : Execute failed: Input data table must have at least 2 records!
+java.lang.IllegalArgumentException: Input data table must have at least 2 records!
+	at org.knime.base.node.mine.decisiontree2.learner2.DecisionTreeLearnerNodeModel2.execute(DecisionTreeLearnerNodeModel2.java:478)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:549)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1267)
+	at org.knime.core.node.Node.execute(Node.java:1041)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:595)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:201)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2023-01-24 15:41:45,355 : ERROR : KNIME-Worker-4-Decision Tree Learner 3:3 :  : Node : Decision Tree Learner : 3:3 : Execute failed: Input data table must have at least 2 records!
+java.lang.IllegalArgumentException: Input data table must have at least 2 records!
+	at org.knime.base.node.mine.decisiontree2.learner2.DecisionTreeLearnerNodeModel2.execute(DecisionTreeLearnerNodeModel2.java:478)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:549)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1267)
+	at org.knime.core.node.Node.execute(Node.java:1041)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:595)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:201)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2023-01-24 15:44:07,497 : WARN  : main :  : Node : Scorer : 3:5 : No columns selected yet.
+2023-01-24 15:44:08,485 : WARN  : main :  : Node : Scorer : 3:5 : No columns selected yet.
+2023-01-24 15:44:10,854 : WARN  : KNIME-Worker-8-Excel Reader 3:1 :  : Node : Scorer : 3:5 : No columns selected yet.
+2023-01-24 15:44:33,880 : WARN  : main :  : Node : Scorer : 3:5 : No columns selected yet.
+2023-01-24 15:44:44,939 : WARN  : KNIME-Worker-8-Decision Tree Predictor 3:4 :  : Node : Scorer : 3:5 : No columns selected yet.
+2023-01-24 16:10:38,423 : ERROR : Clear OSGi configuration :  : InvokeInstallSiteAction :  :  : Could not clean OSGi configuration area: C:\Program Files\KNIME\configuration\org.eclipse.osgi\112\0\.cp\os\win32\x86_64\localfile_1_0_0.dll
+2023-01-28 13:15:37,933 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-28 13:15:37,937 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-28 13:17:17,856 : WARN  : main :  : Node : Excel Reader : 4:1 : Please specify a file
+2023-01-28 13:18:01,553 : WARN  : main :  : Node : Excel Reader : 4:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-28 13:18:02,910 : WARN  : main :  : Node : Excel Reader : 4:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-28 13:18:09,455 : WARN  : KNIME-Worker-4-Excel Reader 4:1 :  : Node : ARFF Writer : 4:2 : No destination location provided! Please enter a valid location.
+2023-01-28 13:19:48,049 : WARN  : main :  : Node : ARFF Writer : 4:2 : No destination location provided! Please enter a valid location.
+2023-01-28 13:19:49,897 : WARN  : main :  : Node : ARFF Writer : 4:2 : No destination location provided! Please enter a valid location.
+2023-01-28 13:19:51,858 : WARN  : KNIME-Worker-5-Excel Reader 4:1 :  : Node : ARFF Writer : 4:2 : No destination location provided! Please enter a valid location.
+2023-01-28 13:25:42,292 : WARN  : main :  : Node : Excel Reader : 5:1 : Please specify a file
+2023-01-28 13:26:20,120 : WARN  : main :  : Node : Excel Reader : 5:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-28 13:26:21,320 : WARN  : main :  : Node : Excel Reader : 5:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-28 13:26:48,206 : WARN  : main :  : Node : Color Manager : 5:2 : Selected column "CİNSİYET" with default nominal color mapping.
+2023-01-28 13:39:16,137 : WARN  : main :  : Node : Scatter Matrix (local) : 5:4 : Some columns are ignored: too many/missing nominal values and bounds missing.
+2023-01-28 13:39:18,129 : WARN  : main :  : Node : Scatter Matrix (local) : 5:4 : Some columns are ignored: too many/missing nominal values and bounds missing.
+2023-01-28 14:14:08,487 : WARN  : main :  : Node : Histogram (local) : 5:5 : Please define the binning column.
+2023-01-28 15:42:01,993 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-28 15:42:02,008 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-28 15:42:02,009 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-28 15:42:02,010 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-28 15:42:02,011 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-28 15:42:02,011 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-28 15:42:02,012 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-28 15:42:02,012 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-28 15:42:02,013 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-28 15:42:02,013 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-28 15:43:31,734 : WARN  : main :  : Node : Excel Reader : 3:1 : Please specify a file
+2023-01-28 15:43:59,406 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-28 15:44:00,338 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-28 15:45:27,776 : WARN  : main :  : Node : Row Filter : 3:2 : No row filter specified
+2023-01-28 15:46:23,034 : WARN  : main :  : Node : Row Filter : 3:3 : No row filter specified
+2023-01-28 15:47:27,990 : WARN  : main :  : Node : Row Filter : 3:4 : No row filter specified
+2023-01-30 15:52:59,648 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-30 15:52:59,663 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-30 15:54:12,767 : WARN  : main :  : Node : Excel Reader : 3:1 : Please specify a file
+2023-01-30 15:55:06,852 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-30 15:55:07,636 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-30 15:59:04,763 : WARN  : main :  : WrappedNodeDialog : Rule-based Row Filter : 3:2 : failed to apply settings: line 5, col 20: Expected TRUE or FALSE.
+org.knime.core.node.InvalidSettingsException: line 5, col 20: Expected TRUE or FALSE.
+	at org.knime.base.node.rules.engine.RulePanel.saveSettings(RulePanel.java:571)
+	at org.knime.base.node.rules.engine.RuleEngineNodeDialog.saveSettingsTo(RuleEngineNodeDialog.java:114)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:540)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:779)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.text.ParseException: line 5, col 20: Expected TRUE or FALSE.
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseOutcomeAfterArrow(BaseRuleParser.java:617)
+	at org.knime.base.node.rules.engine.SimpleRuleParser.parseOutcome(SimpleRuleParser.java:267)
+	at org.knime.base.node.rules.engine.SimpleRuleParser.parse(SimpleRuleParser.java:232)
+	at org.knime.base.node.rules.engine.RuleFactory.parse(RuleFactory.java:191)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:468)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:496)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:507)
+	at org.knime.base.node.rules.engine.RulePanel.saveSettings(RulePanel.java:569)
+	... 18 more
+2023-01-30 16:00:28,461 : WARN  : main :  : Node : Rule-based Row Filter : 3:2 : Line: 5: Not a column: BOY
+$BOY$ > 170 => TRUE
+^
+2023-01-30 16:00:29,822 : WARN  : main :  : Node : Rule-based Row Filter : 3:2 : Line: 5: Not a column: BOY
+$BOY$ > 170 => TRUE
+^
+2023-01-30 16:01:18,216 : WARN  : main :  : WrappedNodeDialog : Rule-based Row Filter : 3:2 : failed to apply settings: line 5, col 13: Expected a number, string, column, a table property or flow variable reference.
+org.knime.core.node.InvalidSettingsException: line 5, col 13: Expected a number, string, column, a table property or flow variable reference.
+	at org.knime.base.node.rules.engine.RulePanel.saveSettings(RulePanel.java:571)
+	at org.knime.base.node.rules.engine.RuleEngineNodeDialog.saveSettingsTo(RuleEngineNodeDialog.java:114)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:540)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:779)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.text.ParseException: line 5, col 13: Expected a number, string, column, a table property or flow variable reference.
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseOperand(BaseRuleParser.java:1060)
+	at org.knime.base.node.rules.engine.BaseRuleParser.handleRelationRightOperand(BaseRuleParser.java:920)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseRelation(BaseRuleParser.java:857)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseRootBooleanExpression(BaseRuleParser.java:757)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseAndExpression(BaseRuleParser.java:712)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseXorExpression(BaseRuleParser.java:689)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseOrExpression(BaseRuleParser.java:666)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseBooleanExpression(BaseRuleParser.java:654)
+	at org.knime.base.node.rules.engine.SimpleRuleParser.parseCondition(SimpleRuleParser.java:278)
+	at org.knime.base.node.rules.engine.SimpleRuleParser.parse(SimpleRuleParser.java:230)
+	at org.knime.base.node.rules.engine.RuleFactory.parse(RuleFactory.java:191)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:468)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:496)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:507)
+	at org.knime.base.node.rules.engine.RulePanel.saveSettings(RulePanel.java:569)
+	... 18 more
+2023-01-30 16:01:20,660 : WARN  : main :  : WrappedNodeDialog : Rule-based Row Filter : 3:2 : failed to apply settings: line 5, col 13: Expected a number, string, column, a table property or flow variable reference.
+org.knime.core.node.InvalidSettingsException: line 5, col 13: Expected a number, string, column, a table property or flow variable reference.
+	at org.knime.base.node.rules.engine.RulePanel.saveSettings(RulePanel.java:571)
+	at org.knime.base.node.rules.engine.RuleEngineNodeDialog.saveSettingsTo(RuleEngineNodeDialog.java:114)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:540)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:779)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.text.ParseException: line 5, col 13: Expected a number, string, column, a table property or flow variable reference.
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseOperand(BaseRuleParser.java:1060)
+	at org.knime.base.node.rules.engine.BaseRuleParser.handleRelationRightOperand(BaseRuleParser.java:920)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseRelation(BaseRuleParser.java:857)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseRootBooleanExpression(BaseRuleParser.java:757)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseAndExpression(BaseRuleParser.java:712)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseXorExpression(BaseRuleParser.java:689)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseOrExpression(BaseRuleParser.java:666)
+	at org.knime.base.node.rules.engine.BaseRuleParser.parseBooleanExpression(BaseRuleParser.java:654)
+	at org.knime.base.node.rules.engine.SimpleRuleParser.parseCondition(SimpleRuleParser.java:278)
+	at org.knime.base.node.rules.engine.SimpleRuleParser.parse(SimpleRuleParser.java:230)
+	at org.knime.base.node.rules.engine.RuleFactory.parse(RuleFactory.java:191)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:468)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:496)
+	at org.knime.base.node.rules.engine.RulePanel.computeRules(RulePanel.java:507)
+	at org.knime.base.node.rules.engine.RulePanel.saveSettings(RulePanel.java:569)
+	... 18 more
+2023-01-30 16:06:36,225 : WARN  : main :  : Node : Excel Reader : 4:1 : Please specify a file
+2023-01-30 16:07:06,278 : WARN  : main :  : Node : Excel Reader : 4:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-30 16:07:07,318 : WARN  : main :  : Node : Excel Reader : 4:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-30 16:25:20,915 : WARN  : main :  : Node : Excel Reader : 5:1 : Please specify a file
+2023-01-30 16:25:43,219 : WARN  : main :  : Node : Excel Reader : 5:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-30 16:25:44,063 : WARN  : main :  : Node : Excel Reader : 5:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-30 16:26:32,833 : WARN  : main :  : Node : GroupBy : 5:2 : No grouping column included. Aggregate complete table.
+2023-01-30 16:26:32,833 : WARN  : main :  : Node : GroupBy : 5:2 : No aggregation column defined
+2023-01-30 16:26:32,835 : WARN  : main :  : Node : GroupBy : 5:2 : No aggregation column defined
+2023-01-30 16:26:32,835 : WARN  : main :  : Node : GroupBy : 5:2 : Please select at least one group or aggregation column
+2023-01-30 16:29:29,455 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:29:44,369 : WARN  : KNIME-Worker-22-Ungroup 5:3 :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:30:21,901 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:30:34,817 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:30:36,659 : WARN  : KNIME-Worker-23-Ungroup 5:3 :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:31:02,655 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:31:08,715 : WARN  : KNIME-Worker-24-GroupBy 5:2 :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:31:41,497 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:32:02,138 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:32:18,068 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:32:18,665 : WARN  : main :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:32:21,500 : WARN  : KNIME-Worker-25-GroupBy 5:2 :  : Node : Ungroup : 5:3 : No ungroup column selected. Node returns input table.
+2023-01-30 16:32:57,062 : WARN  : main :  : Node : Column Combiner : 5:3 : No settings available.
+2023-01-30 16:33:38,688 : WARN  : main :  : Node : Column Aggregator : 5:4 : Please select at least one aggregation method
+2023-01-30 16:33:46,158 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 5:4 : failed to apply settings: Please select at least one aggregation method
+org.knime.core.node.InvalidSettingsException: Please select at least one aggregation method
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:303)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$6.widgetSelected(WrappedNodeDialog.java:510)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.actions.OpenDialogAction.runOnNodes(OpenDialogAction.java:172)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.runInSWT(AbstractNodeAction.java:174)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction$1.run(AbstractNodeAction.java:160)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.run(AbstractNodeAction.java:157)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-01-30 16:33:53,679 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 5:4 : failed to apply settings: Please select at least one aggregation method
+org.knime.core.node.InvalidSettingsException: Please select at least one aggregation method
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:303)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doOK(WrappedNodeDialog.java:559)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$5.widgetSelected(WrappedNodeDialog.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.actions.OpenDialogAction.runOnNodes(OpenDialogAction.java:172)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.runInSWT(AbstractNodeAction.java:174)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction$1.run(AbstractNodeAction.java:160)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.run(AbstractNodeAction.java:157)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-01-30 16:34:04,187 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 5:4 : failed to apply settings: Please select at least one aggregation method
+org.knime.core.node.InvalidSettingsException: Please select at least one aggregation method
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:303)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$6.widgetSelected(WrappedNodeDialog.java:510)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.actions.OpenDialogAction.runOnNodes(OpenDialogAction.java:172)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.runInSWT(AbstractNodeAction.java:174)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction$1.run(AbstractNodeAction.java:160)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.run(AbstractNodeAction.java:157)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-01-30 16:34:10,676 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 5:4 : failed to apply settings: Please select at least one aggregation method
+org.knime.core.node.InvalidSettingsException: Please select at least one aggregation method
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:303)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$6.widgetSelected(WrappedNodeDialog.java:510)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.actions.OpenDialogAction.runOnNodes(OpenDialogAction.java:172)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.runInSWT(AbstractNodeAction.java:174)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction$1.run(AbstractNodeAction.java:160)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.run(AbstractNodeAction.java:157)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-01-30 16:35:30,814 : WARN  : main :  : Node : Split Collection Column : 5:5 : Not configured
+2023-01-30 16:35:41,999 : WARN  : main :  : Node : Split Collection Column : 5:5 : Auto-guessed settings, splitting column "List"
+2023-01-30 17:27:49,460 : WARN  : main :  : Node : Joiner : 6:3 : No join columns passed.
+2023-01-30 17:49:57,282 : WARN  : main :  : Node : Partitioning : 7:4 : No sampling method selected
+2023-01-30 17:56:25,613 : WARN  : main :  : Node : String to Date&Time : 8:2 : Node must be configured!
+2023-01-30 17:56:32,334 : WARN  : KNIME-Worker-61-Table Creator 8:1 :  : Node : String to Date&Time : 8:2 : Node must be configured!
+2023-01-30 17:58:20,710 : WARN  : KNIME-Worker-63-String to Date&Time 8:2 :  : Node : String to Date&Time : 8:2 : 4 rows could not be converted. Check the message in the missing cells for details.
+2023-01-30 17:59:53,184 : ERROR : KNIME-Worker-64-String to Date&Time 8:2 :  : Node : String to Date&Time : 8:2 : Execute failed: Failed to parse date in row 'Row0': Text '22/01/2023' could not be parsed at index 2
+java.lang.IllegalArgumentException: Failed to parse date in row 'Row0': Text '22/01/2023' could not be parsed at index 2
+	at org.knime.time.node.convert.stringtodatetime.StringToDateTimeNodeModel$StringToTimeCellFactory.getCell(StringToDateTimeNodeModel.java:409)
+	at org.knime.core.data.container.SingleCellFactory.getCells(SingleCellFactory.java:105)
+	at org.knime.core.data.container.RearrangeColumnsTable.calcNewCellsForRow(RearrangeColumnsTable.java:575)
+	at org.knime.core.data.container.RearrangeColumnsTable.calcNewColsSynchronously(RearrangeColumnsTable.java:495)
+	at org.knime.core.data.container.RearrangeColumnsTable.create(RearrangeColumnsTable.java:412)
+	at org.knime.core.data.container.BufferedTableBackend.rearrange(BufferedTableBackend.java:153)
+	at org.knime.core.node.ExecutionContext.createColumnRearrangeTable(ExecutionContext.java:432)
+	at org.knime.time.node.convert.stringtodatetime.StringToDateTimeNodeModel.execute(StringToDateTimeNodeModel.java:227)
+	at org.knime.core.node.NodeModel.execute(NodeModel.java:758)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:549)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1267)
+	at org.knime.core.node.Node.execute(Node.java:1041)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:595)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:201)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2023-01-30 18:07:40,525 : WARN  : main :  : Node : Date&Time Difference : 8:3 : Node must be configured!
+2023-01-30 18:15:54,835 : WARN  : main :  : Node : Date&Time Shift : 8:5 : No configuration available!
+2023-01-30 18:16:31,497 : WARN  : main :  : Node : Date&Time Shift : 8:5 : No configuration available!
+2023-01-30 18:16:32,714 : WARN  : main :  : Node : Date&Time Shift : 8:5 : No configuration available!
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-31 10:06:54,223 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-31 10:22:10,289 : WARN  : main :  : Node : Joiner : 3:3 : No join columns passed.
+2023-01-31 10:24:03,975 : WARN  : main :  : Node : String to Date&Time : 3:5 : Node must be configured!
+2023-01-31 10:27:29,596 : WARN  : main :  : Node : GroupBy : 3:6 : No grouping column included. Aggregate complete table.
+2023-01-31 10:27:29,596 : WARN  : main :  : Node : GroupBy : 3:6 : No aggregation column defined
+2023-01-31 10:27:29,597 : WARN  : main :  : Node : GroupBy : 3:6 : No aggregation column defined
+2023-01-31 10:27:29,711 : WARN  : main :  : Node : GroupBy : 3:6 : Please select at least one group or aggregation column
+2023-01-31 10:31:30,239 : WARN  : main :  : Node : GroupBy : 3:6 : No aggregation column defined
+2023-01-31 10:31:30,240 : WARN  : main :  : Node : GroupBy : 3:6 : No aggregation column defined
+2023-01-31 10:36:28,794 : WARN  : main :  : Node : Joiner : 3:7 : No join columns passed.
+2023-01-31 10:36:53,653 : WARN  : KNIME-Worker-25-Joiner 3:7 :  : Node : Joiner : 3:7 : Node created an empty data table.
+2023-01-31 11:14:58,961 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-01-31 11:14:58,963 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-01-31 11:14:58,963 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-01-31 11:14:58,963 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-01-31 11:14:58,965 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-01-31 11:14:58,965 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-01-31 11:14:58,965 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-01-31 11:14:58,965 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-01-31 11:14:58,965 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-01-31 11:14:58,965 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-01-31 11:16:07,477 : WARN  : main :  : Node : Excel Reader : 3:1 : Please specify a file
+2023-01-31 11:16:34,268 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-31 11:16:34,699 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-31 11:21:57,562 : WARN  : main :  : Node : Partitioning : 3:2:1 : No sampling method selected
+2023-01-31 11:22:12,943 : WARN  : main :  : Node : Decision Tree Learner : 3:2:2 : Guessing target column: "iris".
+2023-01-31 11:27:27,782 : WARN  : main :  : Node : Scorer : 3:3 : No columns selected yet.
+2023-01-31 11:41:57,225 : WARN  : main :  : Node : Excel Reader : 5:1 : Please specify a file
+2023-01-31 11:43:55,674 : WARN  : main :  : Node : Excel Reader : 5:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-31 11:44:01,509 : WARN  : main :  : Node : Excel Reader : 5:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-31 11:44:02,428 : WARN  : main :  : Node : Excel Reader : 5:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-31 11:44:51,653 : WARN  : KNIME-Worker-26-Excel Reader 5:1 :  : Node : Row Filter : 5:2 : No row filter specified
+2023-01-31 11:47:07,409 : WARN  : main :  : WrappedNodeDialog : String Input (legacy) : 5:3 : failed to apply settings: Parameter name not valid.
+Must only consist of word characters or dashes - no spaces no special characters. Name must start with a letter, then it may contain any word character (including '-' and '_') and ends with a word character (no '-' or '_'),
+org.knime.core.node.InvalidSettingsException: Parameter name not valid.
+Must only consist of word characters or dashes - no spaces no special characters. Name must start with a letter, then it may contain any word character (including '-' and '_') and ends with a word character (no '-' or '_'),
+	at org.knime.js.base.node.quickform.QuickFormNodeDialog.saveSettingsTo(QuickFormNodeDialog.java:314)
+	at org.knime.js.base.node.quickform.input.string.StringInputQuickFormNodeDialog.saveSettingsTo(StringInputQuickFormNodeDialog.java:156)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:540)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:779)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2023-01-31 11:47:14,730 : WARN  : main :  : WrappedNodeDialog : String Input (legacy) : 5:3 : failed to apply settings: Parameter name not valid.
+Must only consist of word characters or dashes - no spaces no special characters. Name must start with a letter, then it may contain any word character (including '-' and '_') and ends with a word character (no '-' or '_'),
+org.knime.core.node.InvalidSettingsException: Parameter name not valid.
+Must only consist of word characters or dashes - no spaces no special characters. Name must start with a letter, then it may contain any word character (including '-' and '_') and ends with a word character (no '-' or '_'),
+	at org.knime.js.base.node.quickform.QuickFormNodeDialog.saveSettingsTo(QuickFormNodeDialog.java:314)
+	at org.knime.js.base.node.quickform.input.string.StringInputQuickFormNodeDialog.saveSettingsTo(StringInputQuickFormNodeDialog.java:156)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:540)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:779)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2023-01-31 11:48:21,793 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:48:22,682 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:48:25,600 : WARN  : KNIME-Worker-27-String Input (legacy) 5:3 :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:48:32,869 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:48:49,613 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:48:50,208 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:49:49,482 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:49:50,176 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:50:17,804 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:50:19,609 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:51:19,974 : WARN  : main :  : Node : Row Filter : 5:2 : Errors overwriting node settings with flow variables: Unknown variable "iris_degisken"
+2023-01-31 11:51:26,193 : WARN  : main :  : Node : Row Filter : 5:2 : Errors overwriting node settings with flow variables: Unknown variable "iris_degisken"
+2023-01-31 11:51:28,585 : WARN  : KNIME-Worker-28-String Input (legacy) 5:3 :  : Node : Row Filter : 5:2 : Errors overwriting node settings with flow variables: Unknown variable "iris_degisken"
+2023-01-31 11:51:50,005 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:51:53,453 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:52:14,128 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:52:25,455 : WARN  : main :  : Node : Row Filter : 5:2 : Errors overwriting node settings with flow variables: Unknown variable "iris"
+2023-01-31 11:52:28,953 : WARN  : main :  : Node : Row Filter : 5:2 : Errors overwriting node settings with flow variables: Unknown variable "iris"
+2023-01-31 11:52:31,983 : WARN  : KNIME-Worker-29-String Input (legacy) 5:3 :  : Node : Row Filter : 5:2 : Errors overwriting node settings with flow variables: Unknown variable "iris"
+2023-01-31 11:52:45,031 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:52:46,510 : WARN  : main :  : Node : Row Filter : 5:2 : Column range filter: Input table doesn't contain specified column name
+2023-01-31 11:55:07,659 : WARN  : main :  : Node : File Download (legacy) : 5:4 : Invalid (empty) variable name
+2023-01-31 12:07:32,491 : WARN  : main :  : Node : Table Reader : 5:1 : Please specify a file
+2023-01-31 12:08:13,082 : WARN  : main :  : Node : Excel Reader : 5:2 : Please specify a file
+2023-01-31 12:08:31,958 : WARN  : main :  : Node : Excel Reader : 5:2 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-31 12:08:32,362 : WARN  : main :  : Node : Excel Reader : 5:2 : The node configuration changed and the table spec will be recalculated during execution.
+2023-01-31 12:08:52,931 : WARN  : main :  : Node : Partitioning : 5:3 : No sampling method selected
+2023-01-31 12:09:29,762 : WARN  : main :  : Node : K Nearest Neighbor : 5:4 : Auto-selected column 'iris' as class column.
+2023-01-31 12:11:02,413 : WARN  : main :  : Node : Scorer : 5:7 : No columns selected yet.
+2023-01-31 12:15:51,657 : WARN  : main :  : Node : Variable Loop End : 5:8 : No variables selected
+2023-01-31 12:15:57,499 : WARN  : main :  : Node : Variable Loop End : 5:8 : No variables selected
+2023-01-31 12:16:01,451 : ERROR : KNIME-Worker-46-Loop End 5:6 :  : WorkflowManager : Loop End : 5:6 : Loop end already assigned (start node has more than one end node)
+org.knime.core.node.workflow.IllegalLoopException: Loop end already assigned (start node has more than one end node)
+	at org.knime.core.node.workflow.FlowLoopContext.setTailNode(FlowLoopContext.java:100)
+	at org.knime.core.node.workflow.WorkflowManager.doAfterExecution(WorkflowManager.java:3498)
+	at org.knime.core.node.workflow.NodeContainer.notifyParentExecuteFinished(NodeContainer.java:688)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:238)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:117)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:367)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:221)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2023-02-02 17:20:41,196 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-02-02 17:20:41,199 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-02-02 17:20:41,199 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-02-02 17:20:41,200 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-02-02 17:20:41,200 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-02-02 17:20:41,201 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-02-02 17:20:41,201 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-02-02 17:20:41,202 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-02-02 17:20:41,203 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-02-02 17:20:41,203 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-02-02 17:34:07,692 : WARN  : main :  : Node : Excel Reader : 3:1 : Please specify a file
+2023-02-02 17:34:43,085 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-02-02 17:34:43,711 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-02-02 17:35:29,637 : WARN  : main :  : Node : Partitioning : 3:2 : No sampling method selected
+2023-02-02 17:38:35,717 : WARN  : main :  : Node : Naive Bayes Learner : 3:3 : Please define the classification column
+2023-02-02 17:39:42,010 : WARN  : main :  : Node : Scorer : 3:5 : No columns selected yet.
+2023-02-02 17:41:33,486 : WARN  : main :  : Node : Numeric Binner : 3:7 : No column select for binning.
+2023-02-02 17:43:02,850 : WARN  : main :  : WrappedNodeDialog : Numeric Binner : 3:7 : failed to apply settings: BOY: Bin2 check borders: left=180.0,right=180.0
+
+org.knime.core.node.InvalidSettingsException: BOY: Bin2 check borders: left=180.0,right=180.0
+
+	at org.knime.base.node.preproc.pmml.binner.BinnerNodeModel.validateSettings(BinnerNodeModel.java:420)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doOK(WrappedNodeDialog.java:559)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$5.widgetSelected(WrappedNodeDialog.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.actions.OpenDialogAction.runOnNodes(OpenDialogAction.java:172)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.runInSWT(AbstractNodeAction.java:174)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction$1.run(AbstractNodeAction.java:160)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4790)
+	at org.knime.workbench.editor2.actions.AbstractNodeAction.run(AbstractNodeAction.java:157)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-02-02 17:45:02,456 : WARN  : main :  : Node : Excel Reader : 3:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-02-02 17:59:58,133 : WARN  : main :  : Node : Excel Reader : 4:1 : Please specify a file
+2023-02-02 18:00:24,938 : WARN  : main :  : Node : Excel Reader : 4:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-02-02 18:00:25,428 : WARN  : main :  : Node : Excel Reader : 4:1 : The node configuration changed and the table spec will be recalculated during execution.
+2023-02-02 18:00:30,199 : WARN  : main :  : Node : Partitioning : 4:2 : No sampling method selected
+2023-02-02 18:00:45,463 : WARN  : main :  : Node : Decision Tree Learner : 4:3 : Guessing target column: "CİNSİYET".
+2023-02-02 18:03:21,403 : WARN  : main :  : Node : PMML Writer : 4:5 : Please specify a file
+2023-02-02 18:06:48,103 : WARN  : main :  : Node : PMML Reader : 4:6 : Please specify a file
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-02-04 14:15:57,612 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-02-04 16:18:13,473 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-02-06 11:27:27,324 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-02-06 11:27:27,327 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-02-06 11:27:27,328 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-02-06 11:27:27,328 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-02-06 11:27:27,329 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-02-06 11:27:27,329 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-02-06 11:27:27,330 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-02-06 11:27:27,330 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-02-06 11:27:27,330 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-02-06 11:27:27,331 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-02-06 12:22:58,976 : WARN  : main :  : Node : Create Collection Column : 4:2 : Auto configuration: Using all suitable columns (in total 5)
+2023-02-06 12:24:35,091 : WARN  : main :  : Node : Association Rule Learner : 4:3 : Set the column with the transactions
+2023-02-06 12:24:35,656 : WARN  : main :  : Node : Association Rule Learner : 4:3 : Set the column with the transactions
+2023-02-06 12:37:59,580 : WARN  : KNIME-Worker-15-Create Collection Column 4:2 :  : Node : Association Rule Learner : 4:3 : Set the column with the transactions
+2023-02-06 13:03:01,065 : ERROR : Clear OSGi configuration :  : InvokeInstallSiteAction :  :  : Could not clean OSGi configuration area: C:\Program Files\KNIME\configuration\org.eclipse.osgi\274\0\.cp\os\win32\x86_64\localfile_1_0_0.dll
+2023-02-06 13:03:22,738 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2023-02-06 13:03:22,740 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2023-02-06 13:03:22,740 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : ˜stenen kay�t defteri eriŸimine izin verilmiyor.
+2023-02-06 13:03:22,741 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : At line:1 char:1
+2023-02-06 13:03:22,741 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2023-02-06 13:03:22,741 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2023-02-06 13:03:22,742 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2023-02-06 13:03:22,742 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2023-02-06 13:03:22,742 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2023-02-06 13:03:22,743 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2023-02-06 13:09:00,306 : WARN  : main :  : Node : Association Rule Learner (Borgelt) : 4:4 : Column preset to sepet
+2023-02-06 13:09:20,630 : WARN  : main :  : Node : Item Set Finder (Borgelt) : 4:4 : Column preset to sepet
+2023-02-06 13:13:59,713 : WARN  : main :  : Node : Association Rule Learner : 4:3 : Set the column with the transactions
+2023-02-06 13:14:02,496 : WARN  : KNIME-Worker-17-Item Set Finder (Borgelt) 4:4 :  : Node : Association Rule Learner : 4:3 : Set the column with the transactions
+2023-02-06 13:14:08,448 : WARN  : KNIME-Worker-19-Association Rule Learner 4:3 :  : Node : Association Rule Learner : 4:3 : Node created an empty data table.
+2023-02-06 13:15:47,657 : WARN  : main :  : Node : Association Rule Learner : 4:3 : Set the column with the transactions
